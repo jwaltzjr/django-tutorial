@@ -1,0 +1,688 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"create",
+				"create_report"
+			],
+			[
+				"fet",
+				"fetch_data_from_db"
+			],
+			[
+				"open",
+				"openpyxl"
+			],
+			[
+				"email",
+				"email_spreadsheet"
+			],
+			[
+				"tonnage",
+				"tonnage_week_column"
+			],
+			[
+				"tonnae",
+				"tonnage_week"
+			],
+			[
+				"Corr",
+				"Corridor_Door"
+			],
+			[
+				"Co",
+				"Corridor_Visited"
+			],
+			[
+				"Cor",
+				"Corridor_Door"
+			],
+			[
+				"Escap",
+				"EscapedPrison"
+			],
+			[
+				"KRC_DELIV",
+				"KRC_DELIVERY_TONNAGE_SUMMARY"
+			],
+			[
+				"number",
+				"number_is_valid"
+			],
+			[
+				"fuel",
+				"fuel_average"
+			],
+			[
+				"Data",
+				"DatabaseConnection"
+			],
+			[
+				"days",
+				"days_after_doe_posted"
+			],
+			[
+				"KRC_GET",
+				"KRC_GET_SUPERUSER_EMAILS"
+			],
+			[
+				"DE",
+				"DELIVER_BY_END"
+			],
+			[
+				"PIK",
+				"PICK_UP_BY_END"
+			],
+			[
+				"DELIVER",
+				"DELIVER_BY_END"
+			],
+			[
+				"krcl_",
+				"krcl_brokerage"
+			],
+			[
+				"commer",
+				"commerce_regional"
+			],
+			[
+				"commerce",
+				"commerce_local"
+			],
+			[
+				"tlord",
+				"tlorder_term_plan"
+			],
+			[
+				"vDLID",
+				"vDLID"
+			],
+			[
+				"DAN",
+				"DAN"
+			],
+			[
+				"DELIVERY_",
+				"DELIVERY_APPT_MADE"
+			],
+			[
+				"created",
+				"CREATED_TIME"
+			],
+			[
+				"detail",
+				"DETAIL_LINE_ID"
+			],
+			[
+				"thisyear",
+				"thisyearfour"
+			],
+			[
+				"partnerpick",
+				"PartnerPickYTD"
+			],
+			[
+				"Part",
+				"PartnerPickManifests"
+			],
+			[
+				"checkpar",
+				"checkpartnerpick"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"selected_items":
+		[
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"SSY SQL",
+				"Set Syntax: SQL"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"SSYS QL",
+				"Set Syntax: SQL"
+			],
+			[
+				"git pus b",
+				"Git: Push Current Branch"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add All"
+			],
+			[
+				"git diff",
+				"Git: Diff All Files"
+			],
+			[
+				"git",
+				"Git: Push Current Branch"
+			],
+			[
+				"git quick",
+				"Git: Quick Commit (repo)"
+			],
+			[
+				"git show ",
+				"Git: Show Commit By Hash"
+			],
+			[
+				"git q",
+				"Git: Quick Commit (repo)"
+			],
+			[
+				"git pull",
+				"Git: Pull Current Branch"
+			],
+			[
+				"ssy sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"ssy c#",
+				"Set Syntax: C#"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"ssy py",
+				"Set Syntax: Python"
+			],
+			[
+				" SSY SQL",
+				"Set Syntax: SQL"
+			],
+			[
+				" ssy sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"fold",
+				"Code Folding: Fold Tag Attributes"
+			],
+			[
+				"SS SQ",
+				"Set Syntax: SQL"
+			],
+			[
+				"ss sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"sssql",
+				"Set Syntax: SQL"
+			]
+		],
+		"width": 408.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/jwaltzjr.KRC/AppData/Roaming/Sublime Text 2/Packages/C# Compile & Run/CSharpSingleFileBuild.sublime-build",
+		"/C/Users/jwaltzjr.KRC/Dropbox/IT/TMW/SQL/DAWGs/Inside Sales - Modified Quotes.sql",
+		"/C/Users/jwaltzjr.KRC/Dropbox/IT/Scripts/truckmate/tonnage.sql",
+		"/C/Users/jwaltzjr.KRC/Dropbox/IT/Scripts/truckmate/database.pyc",
+		"/C/Users/jwaltzjr.KRC/Dropbox/IT/Scripts/fuel.py",
+		"/C/Users/jwaltzjr.KRC/Dropbox/IT/Scripts/database.py",
+		"/C/Users/jwaltzjr.KRC/Dropbox/IT/Scripts/tonnage.sql",
+		"/C/Users/jwaltzjr.KRC/Dropbox/IT/Scripts/tonnage.py",
+		"/C/Users/jwaltzjr.KRC/Dropbox/IT/TMW/SQL/Docking Orders.sql",
+		"/C/Users/jwaltzjr.KRC/Dropbox/IT/iptable.json",
+		"/C/Users/jwaltzjr.KRC/Dropbox/IT/TMW/SQL/Stored Procedures/KRC_UPDATE_OPS_CODE_ERRORS.sql",
+		"/C/Users/jwaltzjr.KRC/Dropbox/IT/TMW/SQL/Stored Procedures/KRC_OP_CODE_ERRORS.sql",
+		"/C/Users/jwaltzjr.KRC/Dropbox/IT/TMW/SQL/Functions/KRC_GET_COMPANY.SQL",
+		"/C/Users/jwaltzjr.KRC/Dropbox/IT/TMW/SQL/DAWGs/Old Orders.sql",
+		"/C/Users/jwaltzjr.KRC/Dropbox/IT/TMW/SQL/Triggers/KRC_UPDATE_TERMINALS_ON_POST (TLORDER UPDATE).SQL",
+		"/C/Users/jwaltzjr.KRC/Dropbox/IT/TMW/SQL/Triggers/KRC_UPDATE_SERVICE_LEVEL_ON_POST (TLORDER UPDATE).sql",
+		"/C/Users/jwaltzjr.KRC/Dropbox/IT/TMW/SQL/Stored Procedures/KRC_UPDATE_OPS_CODE.sql",
+		"/C/Users/jwaltzjr.KRC/Dropbox/IT/TMW/SQL/Triggers/KRC_UPDATE_OPS_CODE_TRIGGER (ODRSTAT INSERT).sql",
+		"/C/Users/jwaltzjr.KRC/Dropbox/IT/TMW/SQL/DAWGs/Driver's License Warning.sql",
+		"/C/Users/jwaltzjr.KRC/Dropbox/IT/TMW/SQL/Functions/KRC_GET_ENTRY_TIME.sql",
+		"/C/Users/jwaltzjr.KRC/Dropbox/IT/TMW/SQL/DAWGs/Unpublished Clients.sql",
+		"/C/Users/jwaltzjr.KRC/git/unitycourse-text101/unitycourse-text101.sublime-project",
+		"/C/Users/jwaltzjr.KRC/Dropbox/IT/TMW/SQL/Triggers/KRC_RESAVE_ORDERS_ON_TRIP (TRIPSTAT INSERT).sql",
+		"/C/Users/jwaltzjr.KRC/Dropbox/IT/TMW/SQL/Functions/KRC_IS_DOCKED.sql",
+		"/C/Users/jwaltzjr.KRC/Dropbox/IT/TMW/SQL/Stored Procedures/KRC_DELIVERY_TONNAGE_DAILY.sql",
+		"/C/Users/jwaltzjr.KRC/Dropbox/IT/TMW/SQL/Stored Procedures/KRC_DELIVERY_TONNAGE_SUMMARY_FIX.sql",
+		"/C/Users/jwaltzjr.KRC/Dropbox/IT/TMW/SQL/Stored Procedures/KRC_DELIVERY_TONNAGE_SUMMARY.sql",
+		"/C/Users/jwaltzjr.KRC/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/LAZMC8LN/110362_CLIENT_CHANGE_HISTORY.SQL",
+		"/C/Users/jwaltzjr.KRC/Dropbox/C# Station/TryCatchDemo.cs",
+		"/C/Users/jwaltzjr.KRC/Dropbox/C# Station/eventdemo.cs",
+		"/C/Users/jwaltzjr.KRC/Dropbox/IT/TMW/SQL/Stored Procedures/KRC_ASSIGN_DELIVERY_DRIVER.SQL",
+		"/C/Users/jwaltzjr.KRC/Dropbox/IT/TMW/SQL/DAWGs/Invalid Driver Profile - Missing PeopleNet ID.sql",
+		"/C/Users/jwaltzjr.KRC/Dropbox/IT/TMW/SQL/Tonnage Summaries.sql",
+		"/C/Users/jwaltzjr.KRC/Dropbox/IT/Scripts/abacusedi.py",
+		"/C/Users/jwaltzjr.KRC/Dropbox/IT/TMW/SQL/Triggers/KRC_ATTEMPTED_PRIORITY (ODRSTAT INSERT).sql",
+		"/C/Users/jwaltzjr.KRC/Dropbox/IT/TMW/SQL/Triggers/KRC_BILLCONS_TRIGGER (BILLSCONS INSERT-UPDATE).sql",
+		"/C/Users/jwaltzjr.KRC/Dropbox/IT/TMW/SQL/Triggers/KRC_CLIENT_APPTREQ_TRUE_ON_POST (CLIENT INSERT).sql",
+		"/C/Users/jwaltzjr.KRC/Dropbox/IT/TMW/SQL/Triggers/KRC_CUSTPICK_COMPLETE (ODRSTAT INSERT).sql",
+		"/C/Users/jwaltzjr.KRC/Dropbox/IT/TMW/SQL/Triggers/KRC_EDI_TRIGGER (PTLORDER INSERT-UPDATE).SQL",
+		"/C/Users/jwaltzjr.KRC/Dropbox/C# Station/finallydemo.cs",
+		"/C/Users/jwaltzjr.KRC/Dropbox/IT/TMW/SQL/DAWGs/Bills with PICKUP_DOCK Site - Invalid Zone.sql",
+		"/C/Users/jwaltzjr.KRC/Dropbox/C# Station/fizzbuzz.cs",
+		"/C/Users/jwaltzjr.KRC/Dropbox/C# Station/stringreversal.cs",
+		"/C/Users/jwaltzjr.KRC/Dropbox/C# Station/OneMethod.cs",
+		"/C/Users/jwaltzjr.KRC/Dropbox/C# Station/BaseTalk.cs",
+		"/C/Users/jwaltzjr.KRC/Dropbox/C# Station/drawdemo.cs",
+		"/C/Users/jwaltzjr.KRC/Dropbox/C# Station/OvrIndexer.cs",
+		"/C/Users/jwaltzjr.KRC/Dropbox/IT/TMW/SQL/OvrIndexer.cs",
+		"/C/Users/jwaltzjr.KRC/Dropbox/IT/TMW/SQL/Late Notification.sql",
+		"/C/Users/jwaltzjr.KRC/Dropbox/C# Station/whileloop.cs",
+		"/C/Users/jwaltzjr.KRC/Dropbox/C# Station/doloop.cs",
+		"/C/Users/jwaltzjr.KRC/Dropbox/C# Station/foreach.cs",
+		"/C/Users/jwaltzjr.KRC/Dropbox/C# Station/forloop.cs",
+		"/C/Users/jwaltzjr.KRC/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/jwaltzjr.KRC/Dropbox/C# Station/switchpractice.cs",
+		"/C/Users/jwaltzjr.KRC/Dropbox/C# Station/binaryoperators.cs",
+		"/C/Users/jwaltzjr.KRC/Dropbox/C# Station/unary.cs",
+		"/C/Users/jwaltzjr.KRC/Dropbox/IT/TMW/SQL/Functions/KRC_GET_ARRCONS.sql",
+		"/C/Users/jwaltzjr.KRC/Dropbox/C# Station/NamedWelcome.cs",
+		"/C/Users/jwaltzjr.KRC/Dropbox/C# Station/InteractiveWelcome.cs",
+		"/C/Users/jwaltzjr.KRC/Dropbox/C# Station/Boolean.cs",
+		"/C/Users/jwaltzjr.KRC/AppData/Roaming/Sublime Text 2/Packages/JavaScript/Comments.tmPreferences",
+		"/C/Users/jwaltzjr.KRC/AppData/Roaming/Sublime Text 2/Packages/C#/Comments.tmPreferences",
+		"/C/Users/jwaltzjr.KRC/Dropbox/IT/Scripts/testnetcompiler.cs",
+		"/C/Users/jwaltzjr.KRC/Dropbox/IT/TMW/SQL/Stored Procedures/KRC_ADD_OR_UPDATE_SUPERUSER.SQL",
+		"/C/Users/jwaltzjr.KRC/Dropbox/IT/Scripts/asciisearch.py",
+		"/C/Users/jwaltzjr.KRC/Dropbox/IT/TMW/SQL/KPIs/Commission.sql",
+		"/C/Users/jwaltzjr.KRC/Downloads/TM-104907/104907_ATTEMPTED_DELIVERY.SQL",
+		"/C/Users/jwaltzjr.KRC/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/LAZMC8LN/104907_ATTEMPTED_DELIVERY_20170602.SQL",
+		"/C/Users/jwaltzjr.KRC/Dropbox/IT/TMW/SQL/Functions/KRC_IS_INTERLINER.SQL",
+		"/C/Users/jwaltzjr.KRC/Dropbox/IT/TMW/SQL/Stored Procedures/KRC_APPLY_DOCKED_STATUS.SQL",
+		"/C/Users/jwaltzjr.KRC/Dropbox/IT/TMW/SQL/Stored Procedures/KRC_EDI_TRIGGER_PROC.sql",
+		"/C/Users/jwaltzjr.KRC/Dropbox/IT/TMW/SQL/Stored Procedures/KRC_REMOVE_RATESHEET_FROM_ACHARGE.sql",
+		"/C/Users/jwaltzjr.KRC/Dropbox/IT/TMW/SQL/Stored Procedures/KRC_RESAVE_ALL.sql",
+		"/C/Users/jwaltzjr.KRC/Dropbox/IT/TMW/SQL/Stored Procedures/KRC_SET_ITRIPTLO_TRUE.sql",
+		"/C/Users/jwaltzjr.KRC/Dropbox/IT/TMW/SQL/Stored Procedures/KRC_SET_MANIFEST_FALSE.sql",
+		"/C/Users/jwaltzjr.KRC/Dropbox/IT/TMW/SQL/Stored Procedures/KRC_SET_ITRIPTLO_FALSE.sql",
+		"/C/Users/jwaltzjr.KRC/Dropbox/IT/TMW/SQL/Stored Procedures/KRC_TAKE_OFF_HOLD.sql",
+		"/C/Users/jwaltzjr.KRC/Dropbox/IT/TMW/SQL/Stored Procedures/KRC_UDF_REPLICATE.sql",
+		"/C/Users/jwaltzjr.KRC/Dropbox/IT/TMW/SQL/Stored Procedures/KRC_UPDATE_OPS_CODE_PROC.sql",
+		"/C/Users/jwaltzjr.KRC/Dropbox/IT/TMW/SQL/Stored Procedures/KRC_APPLY_CUSTPICK_STATUS.sql",
+		"/C/Users/jwaltzjr.KRC/Dropbox/IT/TMW/SQL/Stored Procedures/KRC_APPLY_EXPECTED_STATUS.SQL",
+		"/C/Users/jwaltzjr.KRC/Dropbox/IT/TMW/SQL/Stored Procedures/KRC_APPLY_PARTNRPICK_STATUS.SQL",
+		"/C/Users/jwaltzjr.KRC/Dropbox/IT/TMW/SQL/Stored Procedures/KRC_ASSIGN_RATESHEET_TO_ACHARGE.sql",
+		"/C/Users/jwaltzjr.KRC/Dropbox/IT/TMW/SQL/Stored Procedures/KRC_ASSIGN_SUPERUSER_TO_USER.SQL",
+		"/C/Users/jwaltzjr.KRC/Dropbox/IT/TMW/SQL/Functions/KRC_GET_DELIVERY_LEG.SQL",
+		"/C/Users/jwaltzjr.KRC/Dropbox/IT/TMW/SQL/Functions/KRC_GET_CUSTPICK_ZONE.sql",
+		"/C/Users/jwaltzjr.KRC/Dropbox/IT/TMW/SQL/Functions/KRC_GET_ARRSHIP.sql",
+		"/C/Users/jwaltzjr.KRC/Dropbox/IT/TMW/SQL/Functions/KRC_IS_PRINTED.sql",
+		"/C/Users/jwaltzjr.KRC/Dropbox/IT/TMW/SQL/Functions/KRC_IS_OPEN.sql",
+		"/C/Users/jwaltzjr.KRC/Dropbox/IT/TMW/SQL/Functions/KRC_IS_NIGHTDEL.sql",
+		"/C/Users/jwaltzjr.KRC/Dropbox/IT/TMW/SQL/Functions/KRC_IS_COMPLETE.sql",
+		"/C/Users/jwaltzjr.KRC/Dropbox/IT/TMW/SQL/Functions/KRC_GET_SUPERUSER_EMAILS.SQL",
+		"/C/Users/jwaltzjr.KRC/Dropbox/IT/TMW/SQL/Functions/KRC_GET_RPD.sql",
+		"/C/Users/jwaltzjr.KRC/Dropbox/IT/TMW/SQL/Functions/KRC_GET_RAD.sql",
+		"/C/Users/jwaltzjr.KRC/Dropbox/IT/TMW/SQL/Functions/KRC_GET_PICKUP_NUMBER.SQL",
+		"/C/Users/jwaltzjr.KRC/Dropbox/IT/TMW/SQL/Functions/KRC_GET_INTERLINER.SQL",
+		"/C/Users/jwaltzjr.KRC/Dropbox/IT/TMW/SQL/Functions/KRC_GET_EMAIL.sql",
+		"/C/Users/jwaltzjr.KRC/Dropbox/IT/TMW/SQL/Functions/KRC_GET_DEPCONS.sql",
+		"/C/Users/jwaltzjr.KRC/Dropbox/IT/TMW/SQL/Functions/KRC_GET_DEPSHIP.sql",
+		"/C/Users/jwaltzjr.KRC/Dropbox/IT/TMW/SQL/DAWGs/Invalid Trace Number.SQL",
+		"//warehouse/E/timeoff/Data/BenefitDetail.DAT",
+		"//warehouse/E/timeoff/Data/BenefitDetail.IDX",
+		"//warehouse/E/timeoff/Data/55081.DAT",
+		"/C/Users/jwaltzjr.KRC/Dropbox/IT/TMW/SQL/DAWGs/Invalid CLIENT Profile - Missing_Invalid Synergize Code.sql",
+		"/C/Users/jwaltzjr.KRC/Dropbox/IT/TMW/SQL/DAWGs/Incorrect UDF Format.sql",
+		"/C/Users/jwaltzjr.KRC/Dropbox/IT/TMW/SQL/DAWGs/Suspense Account Transactions.sql",
+		"/C/Users/jwaltzjr.KRC/Dropbox/IT/TMW/SQL/DAWGs/EDI Ready.sql",
+		"/C/Users/jwaltzjr.KRC/Dropbox/IT/TMW/SQL/DAWGs/Exception Log.SQL",
+		"/C/Users/jwaltzjr.KRC/Dropbox/IT/TMW/SQL/DAWGs/New Clients.sql",
+		"/C/Users/jwaltzjr.KRC/Dropbox/IT/TMW/SQL/DAWGs/Bills with 'PENDING' Bill-To.sql",
+		"/C/Users/jwaltzjr.KRC/Dropbox/IT/TMW/SQL/DAWGs/Bills with Non-US Funds.sql",
+		"/C/Users/jwaltzjr.KRC/Dropbox/IT/TMW/SQL/DAWGs/Clients with PENDING Zone.sql",
+		"/C/Users/jwaltzjr.KRC/Dropbox/IT/TMW/SQL/DAWGs/Failed PeopleNet Messages.sql",
+		"/C/Users/jwaltzjr.KRC/Dropbox/IT/TMW/SQL/DAWGs/Bills Not Approved.sql",
+		"/C/Users/jwaltzjr.KRC/Dropbox/IT/TMW/SQL/DAWGs/Bills with PENDING Start or End Zone.sql",
+		"/C/Users/jwaltzjr.KRC/Dropbox/IT/TMW/SQL/DAWGs/Bills Not Posted.sql",
+		"/C/Users/jwaltzjr.KRC/Dropbox/IT/TMW/SQL/DAWGs/UDFs Not Updated.sql",
+		"/C/Users/jwaltzjr.KRC/Dropbox/IT/TMW/SQL/DAWGs/Bills Not Assigned to Trip.sql",
+		"/C/Users/jwaltzjr.KRC/Dropbox/IT/TMW/SQL/DAWGs/Delivery Appt Req Unchecked - ORDER.sql",
+		"/C/Users/jwaltzjr.KRC/Dropbox/IT/TMW/SQL/DAWGs/Bills with No RPD or RAD.sql",
+		"/C/Users/jwaltzjr.KRC/Dropbox/IT/TMW/SQL/DAWGs/Operation Code Errors.sql",
+		"/C/Users/jwaltzjr.KRC/Dropbox/IT/TMW/SQL/DAWGs/Take Off Hold DAWG.sql",
+		"/C/Users/jwaltzjr.KRC/Dropbox/IT/TMW/SQL/DAWGs/Priority Shipments.sql",
+		"/C/Users/jwaltzjr.KRC/Dropbox/IT/TMW/SQL/DAWGs/Weekly Fuel.sql",
+		"/C/Users/jwaltzjr.KRC/Dropbox/IT/TMW/SQL/DAWGs/Orders DOCKED at Non-Terminal Zone.sql",
+		"/C/Users/jwaltzjr.KRC/Dropbox/IT/TMW/SQL/DAWGs/AA Child Bills.sql",
+		"/C/Users/jwaltzjr.KRC/Dropbox/IT/TMW/SQL/DAWGs/Order Entry Error - Multiple Detail Lines.sql"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\Users\\jwaltzjr.KRC\\Dropbox\\IT\\TMW\\SQL",
+			"C:\\Users\\jwaltzjr.KRC\\Dropbox\\IT\\TMW\\Database\\SQL",
+			"C:\\Users\\jwaltzjr.KRC\\Dropbox\\IT\\TMW\\Database\\SQL\\DAWGs",
+			"C:\\Users\\jwaltzjr.KRC\\Dropbox\\IT\\TMW\\Database\\SQL",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"STAL",
+			"DatabaseConnection",
+			"DELIVER_BY",
+			"\"DELIVERY_DATE\"",
+			"DELIVERY_WEEK",
+			"ws",
+			" or 0",
+			"sylte_spreadsheet",
+			"format_spreadsheet",
+			"underline=True",
+			"column=2",
+			"column=1",
+			"value",
+			"]",
+			"AVG WEIGHT",
+			"WEIGHT 1",
+			"NUM ORDERS 1",
+			"KRC_",
+			"NUM_ORDERS",
+			"num_orders",
+			"WEIGHT",
+			"weight",
+			"# ORDERS",
+			"WEIGHT",
+			"lean",
+			"COALESCE(\"COMPANY\",'') = ''",
+			"COUNT(*)",
+			"CREATED_TIME",
+			"current date",
+			"Courtyard",
+			"Sword",
+			"TN.Description",
+			"TN.DESCRIPTION",
+			"TN.TRIP_NUMBER",
+			"END",
+			"DATETIME",
+			"DECIMAL(9,2)",
+			"START_WEIGHT",
+			"K.TRIP",
+			"    ",
+			"value",
+			"\n{",
+			"    {",
+			"{",
+			";\n",
+			"DIST",
+			"O.",
+			"C_P",
+			"C_",
+			"signal",
+			"not in",
+			"vQ",
+			"UPDATE",
+			"VARCHAR(8)",
+			"varchar(8)",
+			"while",
+			"signal",
+			"CALL ",
+			"CALL",
+			"UPDATE",
+			"call",
+			"update",
+			"iVENDOR_ID",
+			"Data(Input)",
+			"LS.",
+			"LS2.",
+			",",
+			"=0D=0A",
+			"ORIG",
+			"ZONE_FROM.",
+			"DEST",
+			"ZONE_TO.",
+			"        then \"\"",
+			"DEST",
+			"ZONE_TO",
+			"DESTADDR1",
+			"COMISSION",
+			"NOT IN",
+			"days_after_doe",
+			"cursor",
+			"commit",
+			"value",
+			"traceback",
+			"()\n",
+			"Name == DESTNAME, Type == String, Size == 41, Data == ",
+			"Name == DESTNAME, Type == String, Size == 41, Data == \"",
+			"CREATE",
+			"vMOVE",
+			"vcurrency",
+			"set vcurrency",
+			"currency",
+			".format",
+			"MIME",
+			"email.",
+			"MIMEText",
+			"email",
+			"email.",
+			"email.mime.text",
+			"email_error_message(error_message)",
+			"truckmate",
+			"emailMsg",
+			"error",
+			"plaintxt",
+			"html",
+			"from_password",
+			"username",
+			"from_address",
+			"to_address",
+			"fromPass",
+			"to_address",
+			"to",
+			"fromAddr",
+			"namedtuple",
+			"encoders",
+			"base",
+			"text",
+			"encoders",
+			"EMAILfAILURE",
+			"calculate_fuel_surcharge",
+			"strftime",
+			"driver",
+			"fuel_price",
+			"cell_date",
+			"    'DOE-US': 1,\n    'DOE-LWUS': 8,\n    'DOE-2WUS': 15,\n    'DOE-US-MON': 0,\n    'DOE-US-SAT': 5",
+			"    'DOE-US': 1,\n    'DOE-LWUS': 8,\n    'DOE-2WUS': 15,\n    'DOE-US-MON': 0,\n    'DOE-US-SAT': 5\n",
+			"FuelType",
+			"FuelAverage",
+			"insAverage"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"worksheet",
+			"].value",
+			"AVG_WEIGHT",
+			"avg_weight",
+			"NUM_ORDERS",
+			"num_orders",
+			"avg_weight",
+			"num_orders",
+			"AVG WEIGHT",
+			"# ORDERS",
+			"integer",
+			"house",
+			"HELLOTHEREFRIEND",
+			",0) + coalesce(",
+			"",
+			"v_date",
+			"V_DATE",
+			", v_",
+			"b.",
+			"'WORLMOSTLA'",
+			"date(pick_up_by)",
+			"%",
+			"Previous",
+			"Last Year's",
+			"'2016-08-05'",
+			"'2016-08-01'",
+			"like '%'",
+			":CUSTOMER",
+			"'2016-08-05'",
+			"'2016-08-01'",
+			":ENDDATE",
+			":STARTDATE",
+			":CUSTOMER",
+			"where customer = 'CHROMNEDEA' and document_type = 'INVOICE'",
+			"decimal(7,2)",
+			"'2016-08-05'",
+			"'2016-08-01'",
+			"'CHROMNEDEA'",
+			":ENDDATE",
+			":STARTDATE",
+			":CUSTOMER",
+			"",
+			"decimal(5,2)",
+			"decimal(4,0)",
+			"decimal(5,0)",
+			"decimal(5,2)",
+			"decimal(3,8)",
+			"decimal(3,3)",
+			"decimal(5,1)",
+			"decimal(5,2)",
+			"decimal(2,3)",
+			"decimal(4,2)",
+			"decimal(2,0)",
+			"decimal(8,0)",
+			"(current date - 1 day)",
+			"False",
+			"TMWIN.DeliveryTonnage",
+			"current date",
+			"iDATE"
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 141.0
+	},
+	"output.git":
+	{
+		"height": 130.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 378.0,
+	"status_bar_visible": true
+}
